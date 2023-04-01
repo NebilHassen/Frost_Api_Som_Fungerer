@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Frost_Api_Observations_Med_Sokefelt" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
